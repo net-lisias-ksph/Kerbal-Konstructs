@@ -1,5 +1,23 @@
 # Kerbal Konstructs :: Change Log
 
+* 2017-0502: 0.9.9.5 (GER_Space) for KSP 1.2.2
+	+ Changes for Players:
+			- CommNet Support: All Antennas are the same strength as the KSC ones
+			- RemoteTech Support: The antennas have the Ranges as displayed on the map.
+	+ You need to enable the Support each of the setting in the KK mod settings (accessable from the spacecenter menue)
+	+ For best gameplay experience, use the latest Kerbin-Side packages (GroundControl or complete)
+			- a new KerbalKonstruct Mission Flag by SpannerMonkey
+			- less memory garbage creation during gameplay. --> better performance.
+	+ Changes for Modders:
+			- added dynamic runway markings by whale_2. The model kourseXX will display the corresponding runway number according to its heading.
+			- Added new StaticModule: "FlagDecal" This is basicly the same module as for Parts. It sets a texture of a Model to th actual flag.
+			- SpannerMonkey contributed a new BillBoard Model, which displays your current MissionFlag
+			- Added the KSC facility models to the list of placeable models.
+				- isScanable" flag for instances: These objects will show up in anomaly scanners as marks. (setable in the editor)
+			- hidden flag for Launchsites: Closed Launchsites are not shown in map or launchsite selector when marked "hidden". You need to go there first and open them
+			- When the KK-editor is open, you can select (most) statics under the mousepointer by pressing the "left shift" key.
+	+ boring stuff
+				- New persistence Layer for savegames
 * 2016-1212: 0.9.8.9 (GER_Space) for KSP 1.2.2
 	+ Changes:
 			- Launchsites: KK will add the KSC to the correct position, if the Homeplanet is altered. also KK will not crash when the home is not named Kerbin.
