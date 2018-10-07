@@ -1,5 +1,12 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0504: 0.9.6.6_EX (AlphaAsh) for KSP 1.1.2
+	+ This is an experimental version. That means it has new features that aren't necessarily finished.
+	+ It may also mean bugs.
+	+ If you don't like experimental features or risk of bugs, then don't update.
+	+ Started implementing new features for operational tracking stations.
+	+ Uplinks from tracking stations to vessels in orbit of that body are now displayed in the tracking station/map view.
+	+ A green line means the station uplink has a lock. A red line means it doesn't.
 * 2016-0430: 0.9.6.5 (AlphaAsh) for KSP 1.1.2
 	+ Recompiled against KSP 1.1.2.
 	+ Sent angry e-mail to TriigerAu and Ted for releasing a new version of KSP right after a release of KK. Again.
