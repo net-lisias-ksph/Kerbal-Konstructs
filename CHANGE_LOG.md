@@ -1,5 +1,8 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0401: 0.9.5.6 (AlphaAsh) for KSP 1.1
+	+ Fixed a bug in the GUI code for the Inflight Base Boss causing it to appear blank.
+	+ Inflight Base Boss a little more informative when stuff can and can't be done with it.
 * 2016-0331: 0.9.5.5 (AlphaAsh) for KSP 1.1
 	+ Fixed a bug where the recovery button wouldn't work when at or near a base.
 * 2016-0331: 0.9.5.4 (AlphaAsh) for KSP 1.1
