@@ -1,5 +1,8 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0331: 0.9.5.4 (AlphaAsh) for KSP 1.1
+	+ Fixed bug in recovery, where KSC wasn't getting cleaned up and funds was continuously increased.
+	+ Cleaned up example core static cfgs so that duplication errors aren't logged incorrectly when Round Range is being spawned on game start.
 * 2016-0330: 0.9.5.3 (AlphaAsh) for KSP 1.1
 	+ This is a test version. If you don't want to test the latest version, then don't update.
 	+ This version is compiled against the pre-release version 1.1 of KSP with a few minor code changes for compatibility with API updates. That means there has been no major overhaul of the GUI and other planned improvements that utilise the Unity update.
