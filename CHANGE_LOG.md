@@ -1,5 +1,9 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-1212: 0.9.8.9 (GER_Space) for KSP 1.2.2
+	+ Changes:
+			- Launchsites: KK will add the KSC to the correct position, if the Homeplanet is altered. also KK will not crash when the home is not named Kerbin.
+			- cfg loader: configfiles for unknown bodies are no longer crashing KK.
 * 2016-1208: 0.9.8.8 (GER_Space) for KSP 1.2.2
 	+ Changes:
 			- new statics: added runway markings by whale_2. Thank you!
