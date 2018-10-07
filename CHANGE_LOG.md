@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2017-0610: 1.1.0 (GER_Space) for KSP 1.3.0
+	+ added more Squad  models (KSC wrecks and animalies) to the preloaded model editor lists
 * 2017-0603: 1.0.0b (GER_Space) for KSP 1.3.0
 	+ updated .version file
 * 2017-0504: 0.9.9.6 (GER_Space) for KSP 1.2.2
