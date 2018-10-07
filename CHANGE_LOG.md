@@ -1,5 +1,9 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0430: 0.9.6.5 (AlphaAsh) for KSP 1.1.2
+	+ Recompiled against KSP 1.1.2.
+	+ Sent angry e-mail to TriigerAu and Ted for releasing a new version of KSP right after a release of KK. Again.
+	+ No, not really.
 * 2016-0430: 0.9.6.4 (AlphaAsh) for KSP 1.1.1
 	+ Fixed custom logo and icon pathing for custom launchsites.
 	+ Added a tip to the KK KSC app regarding how to access the editor.
