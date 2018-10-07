@@ -1,5 +1,8 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0403: 0.9.5.7 (AlphaAsh) for KSP 1.1
+	+ Fixed a bug where using the launch dialogs at the KSC scene would b0rk up flight results and reverting flights.
+	+ Custom bases now log launches and you can see the log in the Base Manager. Please note that the KSC does not keep this log since everyone thinks Gene should do it and he's busy with things like managing contracts... erm, controlling missions. No I don't get it either.
 * 2016-0401: 0.9.5.6 (AlphaAsh) for KSP 1.1
 	+ Fixed a bug in the GUI code for the Inflight Base Boss causing it to appear blank.
 	+ Inflight Base Boss a little more informative when stuff can and can't be done with it.
