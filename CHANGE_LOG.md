@@ -1,5 +1,8 @@
 # Kerbal Konstructs :: Change Log
 
+* 2017-0504: 0.9.9.6 (GER_Space) for KSP 1.2.2
+	+ Fixed framerate Issues introduced in last release
+	+ FlagDecal Module should work on multiple flags per object
 * 2017-0502: 0.9.9.5 (GER_Space) for KSP 1.2.2
 	+ Changes for Players:
 			- CommNet Support: All Antennas are the same strength as the KSC ones
