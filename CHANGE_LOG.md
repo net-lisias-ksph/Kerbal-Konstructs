@@ -1,5 +1,6 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0210: 1.2.0.4 (GER_Space) for KSP 1.3.1
 * 2018-0210: 1.2.0.3 (GER_Space) for KSP 1.3.1
 	+ Changes:
 			- Set the default behavior of the CommNet and RemoteTech support to false.
