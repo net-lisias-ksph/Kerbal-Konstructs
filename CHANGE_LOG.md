@@ -1,5 +1,14 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0519: 0.9.7.0 (AlphaAsh) for KSP 1.1.2
+	+ This is an experimental version. That means it has new features that aren't necessarily finished. It may also mean bugs.
+	+ If you don't like experimental features or risk of bugs, then don't update.
+	+ Added a new landing guidance feature.
+	+ Currently only implemented at Round Range and KSC.
+	+ To activate landing guidance, switch on ATC in the Inflight Base Boss when close to one of the bases.
+	+ A HowTo for base/static makers for implementing landing guidance will be in the Kerbal Konstructs thread of the KSP forums soon.
+	+ Expect more bases with landing guidance when static packs get updated.
+	+ This is a first go at it, so expect changes and feedback is welcome.
 * 2016-0515: 0.9.6.9_EX (AlphaAsh) for KSP 1.1.2
 	+ This is an experimental version. That means it has new features that aren't necessarily finished. It may also mean bugs.
 	+ If you don't like experimental features or risk of bugs, then don't update.
