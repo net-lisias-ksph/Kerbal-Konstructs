@@ -1,5 +1,10 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0426: 0.9.6.0 (AlphaAsh) for KSP 1.1
+	+ GUI windows sizes revised to deal with font sizing issues introduced by Unity 5.
+	+ Tooltips revised to deal with font sizing issues introduced by Unity 5.
+	+ Added model cfg parameter keepConvex. Set this true in your model's cfg if you don't want KK to convert your colliders to concave automatically.
+	+ Homeworld no longer hard-coded as Kerbin (for RSS support).
 * 2016-0424: 0.9.5.9 (AlphaAsh) for KSP 1.1
 	+ Under the hood work for upcoming support of Contract Configurator and RemoteTech.
 	+ All KK apps use the same icon in every scene now.
