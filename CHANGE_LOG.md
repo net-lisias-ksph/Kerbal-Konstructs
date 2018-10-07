@@ -1,5 +1,8 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0309: 1.3.0.3 (GER_Space) for KSP 1.3.1
+	+ Bugfix: Small error in the mapdecaleditor
+	+ BugFix: #66 Fic KTC integration & better player position detection
 * 2018-0308: 1.3.0.1 (GER_Space) for KSP 1.3.1
 	+ fix the LaunchSite selector windows in the SPH
 * 2018-0308: 1.3.0.0 (GER_Space) for KSP 1.3.1
