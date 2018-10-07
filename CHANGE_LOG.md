@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0320: 1.3.9.7 (GER_Space) for KSP 1.3.1
+	+ fix crash in the launchsite editor
 * 2018-0319: 1.3.9.6 (GER_Space) for KSP 1.3.1
 	+ 19.3.2018 1.3.9.6
 			- For players
