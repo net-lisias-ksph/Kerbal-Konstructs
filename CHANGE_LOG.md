@@ -1,5 +1,9 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0321: 1.3.9.8 (GER_Space) for KSP 1.3.1
+	+ More Bugfixes
+		- Rocket LaunchSites might had a bug in the latest release:
+		- AutoKouse module does not throu an exception anymore
 * 2018-0320: 1.3.9.7 (GER_Space) for KSP 1.3.1
 	+ fix crash in the launchsite editor
 * 2018-0319: 1.3.9.6 (GER_Space) for KSP 1.3.1
