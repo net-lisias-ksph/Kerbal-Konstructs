@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-1110: 0.9.8.2 (GER_Space) for KSP 1.2.1
+	+ No changelog provided
 * 2016-0729: 0.9.7.3 (AlphaAsh) for KSP 1.1.3
 	+ Internal versioning changes to support newer Contract Configurator versions.
 * 2016-0710: 0.9.7.2 (AlphaAsh) for KSP 1.1.3
