@@ -1,5 +1,12 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0515: 0.9.6.9_EX (AlphaAsh) for KSP 1.1.2
+	+ This is an experimental version. That means it has new features that aren't necessarily finished. It may also mean bugs.
+	+ If you don't like experimental features or risk of bugs, then don't update.
+	+ Fuel Tank instances can now have three new properties: LqFAlt, OxFAlt, MoFAlt.
+	+ They can be acted on/added in a cfg by MM to provide the name of an alternative resource.
+	+ Please see the Kerbal Konstructs thread of the KSP forums for more information on how to utilise these properties.
+	+ Fuel Tanks now have a x25 and x100 transfer rate for quicker refuels.
 * 2016-0513: 0.9.6.8_EX (AlphaAsh) for KSP 1.1.2
 	+ This is an experimental version. That means it has new features that aren't necessarily finished.
 	+ It may also mean bugs.
