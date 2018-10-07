@@ -1,5 +1,10 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0430: 0.9.6.4 (AlphaAsh) for KSP 1.1.1
+	+ Fixed custom logo and icon pathing for custom launchsites.
+	+ Added a tip to the KK KSC app regarding how to access the editor.
+	+ Addressed lag caused in Space Center scene when using this app.
+	+ Added a disclaimer to the Downlink to make it clearer it's WIP, currently just a toy and no it doesn't work with RemoteTech.
 * 2016-0429: 0.9.6.3 (AlphaAsh) for KSP 1.1.1
 	+ Recompiled against KSP 1.1.1.
 * 2016-0428: 0.9.6.2_HOT (AlphaAsh) for KSP 1.1.1
