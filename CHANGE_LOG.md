@@ -1,5 +1,25 @@
 # Kerbal Konstructs :: Change Log
 
+* 2017-0915: 1.2.0.0 (GER_Space) for KSP 1.3.0
+	+ Big Changes:
+		- New NavUtils Addon by Whale_2: Runways can now create thier own config so they show up in NavUtils. Kerbin-Side will be updated later to make use of it.
+		- The persistence handling changed once again, so all LaunchSites and facilities are closed again, but should now stay open for all players, once they are opened again. please use alt+f12 to refund your closed bases.
+	+ Changes for players:
+			- the settings for KK are now migrated to KSP settings system
+			- Try to implement a bugfix for the loading problem of facility states, that plaques some players.
+			- All windows of KK are now only loaded, when they are accessed for the first time. this should save some RAM
+			- BugFix: an empty configuration without any additional runways will no longer crash KSP. This should fix some issues RSS & GPP users had.  (1.1.9.7)
+			- Recovery of vessels near a KK base should now result in a proper refund of credits. (BugFix for KSP 1.3) (1.1.9.7)
+	+ Changes for modders:
+			- you can select where the config files for newly placed static go (GameData/NewInstances or GameData/KerbalKonstrucs/NewInstances)
+			- You can now switch to the old editor camera mode (in the KK settings). Please don't do this while the KK editor window is open.
+			- Models can now use custom shaders. (new setting: useShader = "Name of the Shader") (untested)
+			- KK will load and use all shaders, that are in .KSP asset bundles.
+			- BugFix: Setting the group from the statics window will no longer delete all objects in range.
+			- BugFix: Editor: The Snap to Terrain button now does what it should do.
+			- BugFix: The Squad KSC models should now produce less errors when loaded, after new instances are placed by KK
+			- BugFix: Squad anomalies will now show up more than only once after an restart of KSP
+			- BugFix: Make launchSiteEditor work again. (1.1.9.5)
 * 2017-0610: 1.1.0 (GER_Space) for KSP 1.3.0
 	+ added more Squad  models (KSC wrecks and animalies) to the preloaded model editor lists
 * 2017-0603: 1.0.0b (GER_Space) for KSP 1.3.0
