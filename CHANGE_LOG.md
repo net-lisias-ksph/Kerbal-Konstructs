@@ -1,5 +1,12 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-1121: 0.9.8.5 (GER_Space) for KSP 1.2.1
+	+ Changes:
+			- fixed loading of the kosmodrome mod.
+			- added a "set Launchsite" Button to the launchsite selector, because I searched always there for one.
+			- map: can show waterlaunch sites (toggled via the "other" category)
+			- editor: added a waterlaunch category to the launchsite editor
+			- editor: added set increment buttons to the statics editor
 * 2016-1120: 0.9.8.4 (GER_Space) for KSP 1.2.1
 	+ Changes:
 			- Much faster startup.
