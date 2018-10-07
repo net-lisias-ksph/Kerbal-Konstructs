@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2017-1007: 1.2.0.1 (GER_Space) for KSP 1.3.1
+	+ recompile for KSP 1.3.1
 * 2017-0915: 1.2.0.0 (GER_Space) for KSP 1.3.0
 	+ Big Changes:
 		- New NavUtils Addon by Whale_2: Runways can now create thier own config so they show up in NavUtils. Kerbin-Side will be updated later to make use of it.
