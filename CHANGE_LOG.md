@@ -1,5 +1,13 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0424: 0.9.5.9 (AlphaAsh) for KSP 1.1
+	+ Under the hood work for upcoming support of Contract Configurator and RemoteTech.
+	+ All KK apps use the same icon in every scene now.
+	+ Added some missing icons for KK's Space Center app.
+	+ As well as access to the mod's settings, KK's Space Center app now includes some minor previews of upcoming features. Please note some of these may not happen.
+	+ Under the hood work for some upcoming features.
+	+ This mod includes version checking using
+	+ [MiniAVC](http://forum.kerbalspaceprogram.com/threads/79745). If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent. For a more comprehensive version checking experience, please download the [KSP-AVC Plugin](http://forum.kerbalspaceprogram.com/threads/79745).
 * 2016-0412: 0.9.5.8 (AlphaAsh) for KSP 1.1
 	+ Fixed disappearing tracking stations in map view/tracking center.
 	+ Fixed Round Range operational facilities not being operational.
