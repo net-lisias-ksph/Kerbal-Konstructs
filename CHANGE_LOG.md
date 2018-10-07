@@ -1,5 +1,9 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0222: 0.9.5.2 (AlphaAsh) for KSP 1.0.5
+	+ Non-critical update.
+	+ Updated MM config to support all statics, regardless of author.
+	+ Updated/validated version file.
 * 2016-0218: 0.9.5.1 (AlphaAsh) for KSP 1.0.5
 	+ This is the interim version that includes the fix for collider issues in KSP 1.0.5.
 	+ Credit to Thomas P. and Joshwoo69 for the work on this.
