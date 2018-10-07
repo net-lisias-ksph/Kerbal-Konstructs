@@ -1,5 +1,8 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0428: 0.9.6.1 (AlphaAsh) for KSP 1.1
+	+ Updates to hooks for KerKonConCon.dll.
+	+ If you use Kerbin-Side Jobs contracts you want this for the latest update of that.
 * 2016-0426: 0.9.6.0 (AlphaAsh) for KSP 1.1
 	+ GUI windows sizes revised to deal with font sizing issues introduced by Unity 5.
 	+ Tooltips revised to deal with font sizing issues introduced by Unity 5.
