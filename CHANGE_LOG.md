@@ -1,5 +1,14 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0513: 0.9.6.8_EX (AlphaAsh) for KSP 1.1.2
+	+ This is an experimental version. That means it has new features that aren't necessarily finished.
+	+ It may also mean bugs.
+	+ If you don't like experimental features or risk of bugs, then don't update.
+	+ Added Master Export function to Developer Mode. Use this to do a batch export of ALL instances to KerbalKonstructs/ExportedInstances/Master.
+	+ This function doesn't care if an instance is a CustomInstance or not.
+	+ The organisation is much tidier in the Master folder than when using the other export functions.
+	+ Added a GroupCenter and RefCenter property to instances. If you don't want to wait for Kerbin-Side to update with these, please use the Master Export function and they'll be included in the exported cfgs.
+	+ Proceed with caution - advanced stuff for developers only in this version of KK.
 * 2016-0509: 0.9.6.7_EX (AlphaAsh) for KSP 1.1.2
 	+ This is an experimental version. That means it has new features that aren't necessarily finished.
 	+ It may also mean bugs.
