@@ -1,5 +1,28 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0308: 1.3.0.0 (GER_Space) for KSP 1.3.1
+	+ Changes:
+		- For players
+		- Fixed the facility dublications in the inflight facility manager
+		- Some windows generate less memory garbage and should render faster
+		- Added a new Merchant facility type. You can trade all defined resources here.
+		- FuelTanks are converted to the new Merchant Facility
+		- Added a new Storage Facility Type. You can place and retrieve all your resources there
+		- Reworked Vessel Recovery: All Open LaunchSites have the same recovery range and factor as the KSC. If you are closer than 2500m to a base you get 100% refund. As balancing all LaunchSiterefunds have been removed, as it didn't make any sense. The old recovery could have lead to situations that recovery at a remote base was worse than at the KSC. Also fixed the display of the recovery window.
+		- (experimental )KerbalKonstructs should work better with SigmaDimensions, as now the altitude for most objects is saved in height above terrain. (floating objects at the water surface should stay there.
+		- For modders
+		- Objects can be now moved and edited outside the visiblility range of the object.
+		- StaticModules have now an attribute staticInstance which is automaticly updated when the module is attached to an Static Object.
+		- Support for placing and editig PQSMod_MapDecals
+		- Added Support to load custom MapDecal image maps (examples in the MapDecalMaps folder)
+		- added some helper vectors to visualize the mapdecals area of effect
+		- Added a GradColor static module, that will adjust the color or the named meshes to the color of the underground. (and set a new gras texture)
+		- You can use builtin Textures with the BUILDIN:/ prefex. (currently used in the GrasColor Module and the AdvancedTexture Module)
+		- Added AdvanedTexture StaticModule for replacing textures and shaders on a Static.
+		- Added AnimateOnSunRise StaticModule (created by @Li0n-0 )
+		- All KSP Assets now come with the GrasColor Module preinstalled
+		- Internal
+		- complete rework of the LaunchSiteManager and the LaunchSiteSelector GUI. It should render faster and has 300 less lines of Code. It is also better to read.
 * 2018-0210: 1.2.0.4 (GER_Space) for KSP 1.3.1
 * 2018-0210: 1.2.0.3 (GER_Space) for KSP 1.3.1
 	+ Changes:
