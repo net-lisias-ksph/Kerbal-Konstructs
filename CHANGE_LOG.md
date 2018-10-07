@@ -1,5 +1,30 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0319: 1.3.9.6 (GER_Space) for KSP 1.3.1
+	+ 19.3.2018 1.3.9.6
+			- For players
+			- BugFix: The last LaunchSite used should not be resetted all the time
+			- BugFix: KCT is annoying: repairing it made some bugs visible in the code.
+			- BugFix: Default LaunchSies are now set correctly
+			- NGS should now work correctly
+			- The SpaceCenter view will now show the last LaunchSite used. (you can switch this off in the configs)
+			- Most facilities will bring you to the correspondig SC facility scenses when clicked from the SpaceCenter overview.
+			- You can have the Keribin-Side and Stock CommNet GroundStations at the same time (config switch in the settings) You don't need to restart KSP to change that behavior
+			- Landing Guides reworkd to be more useful and less annoying
+			- For modders
+			- LaunchSites are now fully usable after placing them. No need to restart KSP to test them.
+			- reworked the AutoKourse Static Module. The digit meshes are freely configuable and you can adjust the heading offset.
+			- Added a PAPI StaticModule (for Eskandare)
+			- KK will redeploy all statics after a GameDatabase reload. (this will Reset your Facilities, so handle with care)
+			- Added a DishAnimate Static Module for easy animation of antennas. (They are controlled by the same module as the stock antennas)
+			- LaunchSite editor:  You can define the initial angle of the SpaceCenter camera (clockwise from the LaunchSite forward vector)
+			- BugFix:The Category Search is now woking again in the models overview
+			- the AdvancedTexture Modules allows multiple meshes in a comma seperated list
+			- the AdvancedTexture caches the builtin textures for faster loading.
+			- AdvancedTexture Module: Addes a BuiltinIndex = <int>, so you can refer to diffrent textures with the same name.
+			- Internal
+			- changed internal LaunchSite handling. (for easier KSP1.4 migration)
+			- BugFix: no more errors in the logfile, when placing Squads buildings.
 * 2018-0309: 1.3.0.3 (GER_Space) for KSP 1.3.1
 	+ Bugfix: Small error in the mapdecaleditor
 	+ BugFix: #66 Fic KTC integration & better player position detection
