@@ -1,5 +1,8 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0527: 0.9.7.1 (AlphaAsh) for KSP 1.1.2
+	+ Added a center sight to the landing guidance HUD.
+	+ Added a glide-slope meter to just under the center sight.
 * 2016-0519: 0.9.7.0 (AlphaAsh) for KSP 1.1.2
 	+ This is an experimental version. That means it has new features that aren't necessarily finished. It may also mean bugs.
 	+ If you don't like experimental features or risk of bugs, then don't update.
