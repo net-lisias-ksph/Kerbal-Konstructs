@@ -1,5 +1,12 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-1120: 0.9.8.4 (GER_Space) for KSP 1.2.1
+	+ Changes:
+			- Much faster startup.
+			- KSC(Launchpad&Runway) is now selectable in MapView (again?)
+			- A bit more verbose message, when you are out of range of an fuel tank
+			- Camera is now resetting after a facitity was selected and the window is closed.
+			- Recovering of vessels is now fixed. (Also StageRecovery is working again since last release)
 * 2016-1110: 0.9.8.2 (GER_Space) for KSP 1.2.1
 	+ No changelog provided
 * 2016-0729: 0.9.7.3 (AlphaAsh) for KSP 1.1.3
