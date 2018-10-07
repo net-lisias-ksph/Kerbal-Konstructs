@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0331: 0.9.5.5 (AlphaAsh) for KSP 1.1
+	+ Fixed a bug where the recovery button wouldn't work when at or near a base.
 * 2016-0331: 0.9.5.4 (AlphaAsh) for KSP 1.1
 	+ Fixed bug in recovery, where KSC wasn't getting cleaned up and funds was continuously increased.
 	+ Cleaned up example core static cfgs so that duplication errors aren't logged incorrectly when Round Range is being spawned on game start.
