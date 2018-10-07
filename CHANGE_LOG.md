@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0428: 0.9.6.2_HOT (AlphaAsh) for KSP 1.1.1
+	+ FPS killing fixed
 * 2016-0428: 0.9.6.1 (AlphaAsh) for KSP 1.1
 	+ Updates to hooks for KerKonConCon.dll.
 	+ If you use Kerbin-Side Jobs contracts you want this for the latest update of that.
