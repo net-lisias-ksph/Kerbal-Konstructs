@@ -1,5 +1,15 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0210: 1.2.0.3 (GER_Space) for KSP 1.3.1
+	+ Changes:
+			- Set the default behavior of the CommNet and RemoteTech support to false.
+			- Fixed the facility editor
+			- removed unneccesary the calls to the staticModuleUpdate when a object is selected.
+			- made the the KerbalKonstricts.UI.StaticsEditorGUI.isOpen() function public, so it can be queried from other mods.
+			- Fixed the snap2target and copy/paste position of objects.
+			- removed some orphaned code from the editor.
+			- small peformace improvements to the statics editor
+			- Fixed the offices and research facilities. They now prodoce about 5 science and 5000 credits per kerbal and year, so they are now slightly usefull.
 * 2017-1007: 1.2.0.1 (GER_Space) for KSP 1.3.1
 	+ recompile for KSP 1.3.1
 * 2017-0915: 1.2.0.0 (GER_Space) for KSP 1.3.0
