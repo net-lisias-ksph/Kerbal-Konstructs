@@ -1,5 +1,13 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0509: 0.9.6.7_EX (AlphaAsh) for KSP 1.1.2
+	+ This is an experimental version. That means it has new features that aren't necessarily finished.
+	+ It may also mean bugs.
+	+ If you don't like experimental features or risk of bugs, then don't update.
+	+ Tracking station/map view KK bar now has toggles for displaying uplinks, ground comms (hardlines, telecomms etc.) and radar.
+	+ Tracking station/map view KK bar now has an occlude toggle, used to switch hiding of icons behind a planet.
+	+ Zooming out from a planet, radar and icons will now disappear at a distance.
+	+ Please note that new features are usually just aesthetic in an experimental version of KK.
 * 2016-0504: 0.9.6.6_EX (AlphaAsh) for KSP 1.1.2
 	+ This is an experimental version. That means it has new features that aren't necessarily finished.
 	+ It may also mean bugs.
