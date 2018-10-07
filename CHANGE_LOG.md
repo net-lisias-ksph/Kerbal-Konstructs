@@ -1,5 +1,18 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-1208: 0.9.8.8 (GER_Space) for KSP 1.2.2
+	+ Changes:
+			- new statics: added runway markings by whale_2. Thank you!
+			- new placed objects are written to: GameData\KerbalKonstructs\NewInstances[modelname]-instances.cfg
+			- editor: finer increments when editing objects.
+			- editor: used relative directions instead of altering some vectors.
+			- editor: added reference vectors
+			- editor: orientation uses reference vectors
+			- editor: added scaling of objects
+			- editor: facilities are now editable for placed objects
+			- editor: fixed editing of Kerbin-Side statics
+			- cfg file loader: "RadialPosition" can be recalculated, when missing, from RefLatitude/RefLongitude
+			- all: enabled some more debug output.
 * 2016-1121: 0.9.8.5 (GER_Space) for KSP 1.2.1
 	+ Changes:
 			- fixed loading of the kosmodrome mod.
