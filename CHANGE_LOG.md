@@ -1,5 +1,10 @@
 # Kerbal Konstructs :: Change Log
 
+* 2016-0330: 0.9.5.3 (AlphaAsh) for KSP 1.1
+	+ This is a test version. If you don't want to test the latest version, then don't update.
+	+ This version is compiled against the pre-release version 1.1 of KSP with a few minor code changes for compatibility with API updates. That means there has been no major overhaul of the GUI and other planned improvements that utilise the Unity update.
+	+ It does not require module manager anymore. The collider "fix" is applied automatically to all static objects. All static object colliders are set concave and preliminary testing shows that Unity does still support them.
+	+ It does seem to work just fine in x64, based on preliminary testing.
 * 2016-0222: 0.9.5.2 (AlphaAsh) for KSP 1.0.5
 	+ Non-critical update.
 	+ Updated MM config to support all statics, regardless of author.
