@@ -1,5 +1,21 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-1105: 1.3.9.24 (GER-Space) for KSP 1.3.1
+	+ For modders
+	+ new GroupCenter objects. These are the center of a group and define everything
+	+ new config file format: now everything is relative to a GroupCenter
+	+ group editing: You can move and clone an entire group of statics
+	+ automatic group assignment of newly created statics
+	+ new editor gizmo support for object movement
+	+ you can switch the reference system in the editor with the "F" key
+	+ Improved GrasColor support. (predefined colors, texture replacement)
+	+ added AnimateOnTrigger StaticModule
+	+ For all
+			- better support for Sigma Dimensions. As soon statics are loaded with the new config format, everything will stay in place.
+			- speeded up the loading of Kerbin-Side Remastered statics (20x faster)
+			- general prformance improvements
+			- automatic conversion of old configs to new format
+			- Statics should now always load outside the VesselLoading range. (try to fix multiplayer and physic-range altering mods)
 * 2018-1028: 1.3.9.18 (GER-Space) for KSP 1.3.1 PRE-RELEASE
 	+ Added Group Editing and broke everything.
 	+ Make a backup before you use this:
