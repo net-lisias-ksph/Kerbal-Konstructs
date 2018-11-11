@@ -1,5 +1,11 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0819: 1.3.9.15 (GER-Space) for KSP 1.3.1 PRE-RELEASE
+	+ Editor backport (direct enty of values), fix for MapDecal Editor killing the StaticsEditor
+	+ make LV3 Tracking Station Dish available as a static
+	+ animate dishes of lV1 & 2 Tracking stations
+	+ make the Group Setting avaiable in the MapDecal editor. (currently unused, but will be used in future releases
+	+ UUIDs will be created for all Statics (but currently not used)
 * 2018-0811: 1.3.9.14 (GER-Space) for KSP 1.3.1
 	+ Advanced Textures: Fixed the Material Replacer
 	+ Added some Watersurface Assets
