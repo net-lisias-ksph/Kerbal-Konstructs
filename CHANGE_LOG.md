@@ -1,16 +1,21 @@
 # Kerbal Konstructs :: Change Log
 
-* 2018-0504: 1.4.5.0 (GER-Space) for KSP 1.4.3
-	+ Changes:
-			- Stock Squad buildings now have lower energy bills. (they turn off thier lights during the day)
-			- KK building now behave in the SC view and you can no longer click through active GUI windows
-			- Added SurfaceWater support for statics
-			- added support for material switching (in the AdvancedTexture Static Module)
-			- the launchsite selector no longer crashes if you deleted the config of the last used launchsite.
-			- Fixes a spelling error in the DishAnimate module (some old configs might break, please update your configs. Its now RotationTransform and not RotationTrasform (missing "n")
-			- Fixes a Bug in the PQS Editor. Now the NewInstances Directory is created when savong a PQSMod
-			- Made the MobileLaunchPad and Desert Airfield usable as LaunchSites
-			- Added the Desert Airfield Statics into the Statics Database as seperate objects
+* 2018-0807: 1.4.5.2 (GER-Space) for KSP 1.4.
+	+ New Features
+		- You can visualize all Recovery Bases in the mapvew, so its easier to aim for one. (even the new Recovery-Only ones)
+		- The both dishes for of the lv1 tracking station are now animated
+	+ BugFixes
+		- Put the sound cube collider into a different layer, so it doesn't interfere with KSP 1.4.X anymore.
+	+ For Modders
+			- New Feature: static objects can be savegame persistent. (only in the game they are spawned, and saved in the persistance .sfs
+			- New Feature: a "reduced feature set" statics editor, which can be called through a API call.
+			- New Feature: Some API Calls for adding and removing Statics, which a saved in the persistance sfs
+			- New Feature: StaticModels can be hidden from the normal editor with isHidden = true in the model .cfg
+			- New Feature: New Facility type: RecoveryBase: Make a static a base for vessel recovery. No launchSite needed (think of a SpaceX Barge, you land there, you get 100% return)
+			- BugFix: AdracedTexture: Material replacement now works correctly on multiple transforms.
+			- Added two water-surface statics. one round, one square. (FBX included)
+	+ internal
+			- All statics have now a unique ID, that is used when saving and loading persistance information. This speeds up level KK related scene loading times by 50%
 * 2018-0504: 1.4.5.0 (GER-Space) for KSP 1.4.4
 	+ Changes:
 			- Stock Squad buildings now have lower energy bills. (they turn off thier lights during the day)
