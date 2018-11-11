@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-1106: 1.4.5.26 (GER-Space) for KSP 1.5.1 PRE-RELEASE
+	+ increased the accuracy of movement of statics
 * 2018-1028: 1.4.5.24 (GER-Space) for KSP 1.5.1
 	+ For modders
 	+ new GroupCenter objects. These are the center of a group and define everything
