@@ -1,5 +1,12 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0423: 1.3.9.10 (GER-Space) for KSP 1.3.1
+	+ Added sound support for AnimanteOnclick
+	+ AninimteOnClick supports now muliple collider objects with the same name.
+	+ BugFix: Warp to next morning button is working correctly with Custom Planet packs using kopernikus.
+	+ the KSC2 is a builtin base: On career games it is hidden, so you have to get near first and open it up for one credit. No Kerbin-Side needed.
+	+ Added smoke effects for Launchpads
+	+ the Assets and RoundRidge Base from AlphaAsh are moved to into the Kerbin-Side releae
 * 2018-0321: 1.3.9.8 (GER_Space) for KSP 1.3.1
 	+ More Bugfixes
 		- Rocket LaunchSites might had a bug in the latest release:
