@@ -1,5 +1,11 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0501: 1.4.3.2 (GER-Space) for KSP 1.4.3
+	+ This is a bugFix release for KSP 1.4.3:
+			- MH: Fixed crash when gpoing back to the mainmenue
+			- Career: Fixed a crash on the vessel recovery dialog
+			- MH: Career: Opened bases now stay open
+			- MH: The default launch button are now correctly set and update correctly for sites
 * 2018-0429: 1.4.3.1 (GER-Space) for KSP 1.4.
 	+ ' Fix .dds texture handling for the advances Texture Module.
 * 2018-0321: 1.4.3.0 (GER-Space) for KSP 1.4.
