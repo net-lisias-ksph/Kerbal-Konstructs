@@ -1,5 +1,9 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-1028: 1.3.9.18 (GER-Space) for KSP 1.3.1 PRE-RELEASE
+	+ Added Group Editing and broke everything.
+	+ Make a backup before you use this:
+			- Backport of the 1.4 code to 1.2.2 and 1.3.1
 * 2018-0819: 1.3.9.15 (GER-Space) for KSP 1.3.1 PRE-RELEASE
 	+ Editor backport (direct enty of values), fix for MapDecal Editor killing the StaticsEditor
 	+ make LV3 Tracking Station Dish available as a static
