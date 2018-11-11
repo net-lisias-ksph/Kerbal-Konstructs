@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0429: 1.4.3.1 (GER-Space) for KSP 1.4.
+	+ ' Fix .dds texture handling for the advances Texture Module.
 * 2018-0321: 1.4.3.0 (GER-Space) for KSP 1.4.
 	+ Last Update: 29.4.2018
 	+ Support for KSP 1.4.X
