@@ -1,5 +1,10 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0503: 1.4.3.3 (GER-Space) for KSP 1.4.3
+	+ Changes:
+			- fix wreck spawning on stock buildings
+			- less explosing vessels with the PQS editor
+			- Set warp to next morning a bit later on Kopernikus planets
 * 2018-0501: 1.4.3.2 (GER-Space) for KSP 1.4.3
 	+ This is a bugFix release for KSP 1.4.3:
 			- MH: Fixed crash when gpoing back to the mainmenue
