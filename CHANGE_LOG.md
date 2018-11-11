@@ -1,5 +1,18 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0812: 1.4.5.4 (GER-Space) for KSP 1.4.
+	+ for everyone
+		- Changes the tooltip of the recovery bases to the FacilityName or the LaunchSite name
+		- new Squad static to place: The lights of the desert runway (one section of them) are now a standalone static which can be placed anywhere (when expansion is installed)
+		- the Mapview of the recovery bases now caches its contents, which is now slightly more resource friendly.
+	+ for modders
+			- Added API call for placing statics: PlaceStatic()
+			- Added a trigger-CallBack StaticModule, where mods can register CallBack functions when a part enters the trigger collider.
+			- Added API calls to register collider callback functions (OnEnter, OnStay and OnExit)
+			- Statics: Editor: You can use the statics editor after you used the PQSMap editor
+			- Statics: Editor: You can now enter most values with less problems and they are applied after pressing <Enter>
+	+ internal
+			- Changed the Water-Floating StaticModule to use the CallBack StaticModule, so I have less duplicate code.
 * 2018-0807: 1.4.5.2 (GER-Space) for KSP 1.4.
 	+ New Features
 		- You can visualize all Recovery Bases in the mapvew, so its easier to aim for one. (even the new Recovery-Only ones)
