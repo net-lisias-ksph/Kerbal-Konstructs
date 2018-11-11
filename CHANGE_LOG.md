@@ -1,5 +1,10 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0811: 1.3.9.14 (GER-Space) for KSP 1.3.1
+	+ Advanced Textures: Fixed the Material Replacer
+	+ Added some Watersurface Assets
+	+ Animated the Lv1 tracking station dishes
+	+ The MapDecal Parser uses ByteCode Reader for images
 * 2018-0503: 1.3.9.12 (GER-Space) for KSP 1.3.1
 	+ This is the release as from 03.May 2018 for KSP 1.3.1
 	+ Changes:
