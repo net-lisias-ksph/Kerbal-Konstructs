@@ -1,5 +1,15 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0321: 1.4.3.0 (GER-Space) for KSP 1.4.
+	+ Last Update: 29.4.2018
+	+ Support for KSP 1.4.X
+			- Added LaunchPad-Smoke support
+			- Added support for the Stock-Expansion LaunchSite selector
+			- Fixed a bug that prevended a crash during load, when slower computers are used and many mods are installed
+			- Vessel spawned on waterlaunchsites are no longer spawned under water
+			- KSC2 LaunchSite is usable without any mods (in Career games you have to find it first and open it when you are landed near to it)
+			- To make KK more compatible with KSC changing mods, it will no longer ship the assets from Alpha-Ash. These will be moved into Kerbin-Side
+			- Errors when saving models should no longer crash KK
 * 2018-1105: 1.3.9.24 (GER-Space) for KSP 1.3.1
 	+ For modders
 	+ new GroupCenter objects. These are the center of a group and define everything
