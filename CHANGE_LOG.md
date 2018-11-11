@@ -1,5 +1,16 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0504: 1.4.5.0 (GER-Space) for KSP 1.4.4
+	+ Changes:
+			- Stock Squad buildings now have lower energy bills. (they turn off thier lights during the day)
+			- KK building now behave in the SC view and you can no longer click through active GUI windows
+			- Added SurfaceWater support for statics
+			- added support for material switching (in the AdvancedTexture Static Module)
+			- the launchsite selector no longer crashes if you deleted the config of the last used launchsite.
+			- Fixes a spelling error in the DishAnimate module (some old configs might break, please update your configs. Its now RotationTransform and not RotationTrasform (missing "n")
+			- Fixes a Bug in the PQS Editor. Now the NewInstances Directory is created when savong a PQSMod
+			- Made the MobileLaunchPad and Desert Airfield usable as LaunchSites
+			- Added the Desert Airfield Statics into the Statics Database as seperate objects
 * 2018-0503: 1.4.3.3 (GER-Space) for KSP 1.4.3
 	+ Changes:
 			- fix wreck spawning on stock buildings
