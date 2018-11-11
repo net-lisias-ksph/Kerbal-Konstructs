@@ -1,5 +1,14 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-0503: 1.3.9.12 (GER-Space) for KSP 1.3.1
+	+ This is the release as from 03.May 2018 for KSP 1.3.1
+	+ Changes:
+			- Added LaunchPad Smoke effects
+			- Warp to next morning is nor a bit later on Kopernikus planets
+			- Added KSC2 support
+			- fix: KSC building wrecks are now back again
+			- removed statics for Kerbin-Side rematered
+			- fix sound support for animations
 * 2018-0423: 1.3.9.10 (GER-Space) for KSP 1.3.1
 	+ Added sound support for AnimanteOnclick
 	+ AninimteOnClick supports now muliple collider objects with the same name.
