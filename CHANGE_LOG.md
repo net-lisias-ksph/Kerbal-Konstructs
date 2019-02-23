@@ -1,5 +1,17 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-1217: 1.4.5.45 (GER-Space) for KSP 1.4.
+	+ Changes for players:
+		- career games: display the right recovery percentege on the screen.
+		- don't reveal hidden bases on the map view
+		- enforcement of vessel size, part count and weight for custom launchsites.
+		- some suprprise that is fitting for the end of the year.
+	+ changes for modders:
+			- you can define enforcement of vessel size, part count and weight for custom launchsites. 0 equals unlimited
+			- you can define variants of your buildings and they are switchable in the editor.
+	+ general improvements
+			- dynamic spawning of buildings, when you are near the physical loading range. this will save memory, for unused bases.
+			- Despawn of buildings, when you are out of range.
 * 2018-1106: 1.4.5.31 (GER-Space) for KSP 1.4.
 	+ for players
 		- you can now create waypoints to the LaunchSites on the mapview
