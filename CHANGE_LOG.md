@@ -1,5 +1,8 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0210: 1.4.5.60 (GER-Space) for KSP 1.4. PRE-RELEASE
+	+ changes
+			- API for building spanwed event
 * 2019-0206: 1.4.5.59 (GER-Space) for KSP 1.4.
 	+ Changes
 	+ for Players
