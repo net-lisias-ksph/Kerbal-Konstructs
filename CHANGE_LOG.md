@@ -1,5 +1,11 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0123: 1.4.5.56 (GER-Space) for KSP 1.4.
+	+ Changes
+		- bugFix for GPP (related to anomalies)
+		- added a new tool-bar icon
+		- added a universal launchpoint static
+		- dynamic static groups for saveGame persistant statics are no longer visible in the statics-editor
 * 2019-0123: 1.4.5.54 (GER-Space) for KSP 1.4.
 	+ Fix the bug from the latest version.
 * 2019-0122: 1.4.5.53 (GER-Space) for KSP 1.4.
