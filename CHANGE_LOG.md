@@ -1,5 +1,10 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0120: 1.4.5.51 (GER-Space) for KSP 1.4.
+	+ Changes
+		- The LaunchSites in the KSP LaunchSite selector are now sorted: 1. KSC 2. Alphabetical order of all KK Launch sites 3. M.H. Launch sites. (the second part is now what is getting sorted. the overall order is nothing I can change.
+		- Renaming a launch site in the KK-editor will no longer produce exceptions in other parts of the mod and will propagate properly into the game.
+		- fixed an exception when a launchsite is no longer existing withing a saved game.
 * 2019-0120: 1.4.5.50 (GER-Space) for KSP 1.4.
 	+ Changes
 		- Remove orphaned RemoteTech GroundStations when RT support is enabled. This was only be a problem, when you edit GroundStation within a savegame.
