@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0122: 1.4.5.52 (GER-Space) for KSP 1.4.
+	+ Fix a crash when ResearchBodies is installed.
 * 2019-0120: 1.4.5.51 (GER-Space) for KSP 1.4.
 	+ Changes
 		- The LaunchSites in the KSP LaunchSite selector are now sorted: 1. KSC 2. Alphabetical order of all KK Launch sites 3. M.H. Launch sites. (the second part is now what is getting sorted. the overall order is nothing I can change.
