@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-1218: 1.4.5.46 (GER-Space) for KSP 1.4.
+	+ less crashes when a .cfg could not be loaded
 * 2018-1217: 1.4.5.45 (GER-Space) for KSP 1.4.
 	+ Changes for players:
 		- career games: display the right recovery percentege on the screen.
