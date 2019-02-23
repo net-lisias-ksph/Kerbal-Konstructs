@@ -1,5 +1,10 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0109: 1.4.5.47 (GER-Space) for KSP 1.4.
+	+ Changes:
+		- Less crashing when a PQSMapDecal Map is missing
+		- use the active Vessels physics Settings for calculation of the loading range of buildings: fixes: #130
+		- minimal improvements of loading time on scene switches
 * 2018-1218: 1.4.5.46 (GER-Space) for KSP 1.4.
 	+ less crashes when a .cfg could not be loaded
 * 2018-1217: 1.4.5.45 (GER-Space) for KSP 1.4.
