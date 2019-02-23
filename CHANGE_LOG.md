@@ -1,5 +1,12 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0120: 1.4.5.50 (GER-Space) for KSP 1.4.
+	+ Changes
+		- Remove orphaned RemoteTech GroundStations when RT support is enabled. This was only be a problem, when you edit GroundStation within a savegame.
+		- added 7 Builtin GroupCenters, that are hard linked to POI in Kerbin. KSC, KSC2, Island Airfield, Pyramids, Desert LS, Woomerang LS.
+		- Fixed the GrassColor editor.
+		- Fixed a problem with the AnimateOnSunRise module (Buildings should turn off the lights more reliable)
+		- more verbose error messages in the AnimateOnSunRise module. This sould help modders with setting up thier buildings
 * 2019-0109: 1.4.5.47 (GER-Space) for KSP 1.4.
 	+ Changes:
 		- Less crashing when a PQSMapDecal Map is missing
