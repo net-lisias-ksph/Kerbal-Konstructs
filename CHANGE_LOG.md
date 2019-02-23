@@ -1,5 +1,15 @@
 # Kerbal Konstructs :: Change Log
 
+* 2018-1114: 1.3.9.31 (GER-Space) for KSP 0.7.3
+	+ for players
+		- you can now create waypoints to the LaunchSites on the mapview
+		- fixed some annoying bugs, that prevented sometimes the launch of vessels
+		- the spacecenter camera can focus on bases that are not on the Homeworld.
+		- tried to implement some material sharing, so statics can be drawn in batches.
+		- The camera in the spacecenter scene should now produce less graphic errors
+		- the KK launchsite-selector in the editor shows launchsite type.
+	+ for modders
+			- increased the accuracy of movement of statics
 * 2018-1106: 1.4.5.26 (GER-Space) for KSP 1.5.1 PRE-RELEASE
 	+ increased the accuracy of movement of statics
 * 2018-1028: 1.4.5.24 (GER-Space) for KSP 1.5.1
