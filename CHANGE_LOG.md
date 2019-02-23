@@ -1,5 +1,15 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0206: 1.4.5.59 (GER-Space) for KSP 1.4.
+	+ Changes
+	+ for Players
+		- fixed AnimateOnSunrise static module. (switches day/night cycle)
+	+ for Modders
+			- Added new community textures by Damon
+			- added texture tileing option in the Advanced Texture StaticModule
+			- made impact resistence configurable ind model config
+			- fix a spelling error in the model variant config
+			- added a button in the editor that exports all bases (sorted by group) as .tar files into the KerbalKonstructs\ExportedInstances folder  (use winrar or 7-zip) this makes sharing of your own creations a lot easier.
 * 2019-0123: 1.4.5.56 (GER-Space) for KSP 1.4.
 	+ Changes
 		- bugFix for GPP (related to anomalies)
