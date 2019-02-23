@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0123: 1.4.5.54 (GER-Space) for KSP 1.4.
+	+ Fix the bug from the latest version.
 * 2019-0122: 1.4.5.53 (GER-Space) for KSP 1.4.
 	+ editor: make the Squad anomalies visible again
 * 2019-0122: 1.4.5.52 (GER-Space) for KSP 1.4.
