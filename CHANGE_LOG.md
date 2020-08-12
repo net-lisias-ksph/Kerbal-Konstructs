@@ -1,5 +1,15 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0428: 1.7.0.1 (GER-Space) for KSP 1.7.0
+	+ Changes
+		- rework the spawn and despawn logic once more: now all buildings are only spawned when they are within the visiblility range. they are despawned when going out of range and not only disabled. This should reduce the memory consumpion of setups with many statics.
+		- Anomalies will no longer show up with <name>_PQS on the SCANSat scanners
+	+ mostly for modders
+			- groups are saved by thier coodinates and not some magic vector.
+			- group use in thier config now a "heading from north" for thier rotations and no longer a internal rotation value.
+			- editor: you can enter some of the values of the groupeditor directly
+			- editor: Selecting the same group two times in a row will no longer lose the focus of the camera.
+			- editor the exports are now written in directories with the timestamp.
 * 2019-0210: 1.4.5.64 (GER-Space) for KSP 1.6.1
 	+ changes
 			- API for building spanwed event
