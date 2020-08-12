@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0531: 1.7.0.3 (GER-Space) for KSP 1.7.0
+	+ Fix LaunchPad Smoke
 * 2019-0511: 1.7.0.2 (GER-Space) for KSP 1.7.0
 	+ Changes
 	+ should fix issue #138  (LaunchSites not working)
