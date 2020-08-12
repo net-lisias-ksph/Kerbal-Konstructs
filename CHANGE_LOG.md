@@ -1,5 +1,9 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-1113: 1.8.1.4 (GER-Space) for KSP 1.8.1
+	+ GrassColor2: you can color the Concrete Texture (or anyting you put there) of the KSC Buildings
+	+ GrassColor2:  You can force-reload the blendmask texture from disk. No need to restart KSP to see changes
+	+ GrasColor (legacy): Improved the automatic normal map generation
 * 2019-1109: 1.8.1.2 (GER-Space) for KSP 1.8.1
 	+ GamePlay
 		- Hidden bases are now discovered, when you come closer than 5000m. After that you can see them in the Map and LaunchSite Selection list.
