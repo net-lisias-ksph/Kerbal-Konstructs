@@ -1,5 +1,13 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0210: 1.4.5.64 (GER-Space) for KSP 1.6.1
+	+ changes
+			- API for building spanwed event
+			- BugFix: Make Kerbals on EVA Float
+			- BugFix: less crashes on missing .mu ending of 3d model definitions.
+			- use lat and lng for GroupCenters instead of a reference vector. this should fix some issues with rescaling.
+			- added a switch to launchsites to toggle the behavior where a vessel ls placed on launch (on the topmost collider (default KSP) or at the spawnpoint)
+			- added two new community textures by damonvv
 * 2019-0210: 1.4.5.60 (GER-Space) for KSP 1.4. PRE-RELEASE
 	+ changes
 			- API for building spanwed event
