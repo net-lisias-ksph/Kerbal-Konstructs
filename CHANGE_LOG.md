@@ -1,5 +1,30 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-1128: 1.8.1.15 (GER-Space) for KSP 1.8.1
+	+ Changes
+	+ new Hangar module
+		- you can store vessels and the crew is recovered automatically
+		- you can assign crew to stored vessels and launch them from the KSC menu.
+	+ Other
+		- statics should be less bumpy after a scene switch
+		- SpaceCenters are no longer focused when they are not on the Homeword. This feature will come back when it is properbly implemented
+		- The KSC FuelTank is now visible again.
+		- The LaunchSites are now sorted: 1. Group 2. Name
+	+ Changes for modders
+			- support for custom launchpad smoke emitters (either Unity ParticleSystem or KSPParticleEmitter)
+			- GrasColor: Normal Maps are precalculated and cached unter PluginData
+			- GrassColor2: Multicolor Blendmasks allow blending of up to four textures (including alpha channel and mix) ( for example: grass + concrete + (worn) white stripes + dirt roads)
+	+ This is like a light version of substance painter.
+			- The GrassColor2 editor supports these changes
+			- GrassColor2 : Normal Maps for each Texture are precalculated and cached unter PluginData. Only NearGrass receives those from the FarGrass (which looks better that way)
+			- GrassEditor: You can convert any texture to grayscale, so some are more usefull now.
+			- AnimateOnSunrise: Rewrote it to be less error prone.
+			- AdvancedTextures: you can define the color of  a mesh with the _Color parameter
+			- Variant switching: allow transform names with whitespace in the middle
+			- PadSmoke: allow transform names with whitespace in the middle
+			- AdvancedTextures: allow transform names with whitespace in the middle
+			- PadSmoke: You can select your smoke type
+			- exports are now written as ,zip files and no longer as .tar
 * 2019-1113: 1.8.1.4 (GER-Space) for KSP 1.8.1
 	+ GrassColor2: you can color the Concrete Texture (or anyting you put there) of the KSC Buildings
 	+ GrassColor2:  You can force-reload the blendmask texture from disk. No need to restart KSP to see changes
