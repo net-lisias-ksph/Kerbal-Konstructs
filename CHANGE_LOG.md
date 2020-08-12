@@ -1,5 +1,23 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-1109: 1.8.1.2 (GER-Space) for KSP 1.8.1
+	+ GamePlay
+		- Hidden bases are now discovered, when you come closer than 5000m. After that you can see them in the Map and LaunchSite Selection list.
+		- Added a toggle in the GameSettings, so you can unhide hidden bases
+		- Buildings with colored grass got thier grass textures non-repeating tiled. This makes them a bit nicer to look at.
+	+ Bugfixes:
+			- Port to KSP 1.8.X: Older Releases are not working anymore
+			- GroupCenter: Fixed the orientation of bases, so they don't end up turned
+			- Fixed some performance issues, that where intoduced several releases ago
+			- Fixed some error in PQS Surface color calculations.
+	+ for Modders
+			- Colors are now automatically converted to the new Grass-color format.
+			- new GrassColor editor with new features. (Blend masks, texture blending)
+			- new Color presets
+			- You can define favorites for your own textures, so you can select them in the GrassColorEditor
+			- This mod can now load and apply custom shaders. If you need something special, please let me know.
+			- Statics are no longer colored, when the grass editor is open, so you can really see what you get
+			- you can change the way how the grasscolor is sampled in the game settings.
 * 2019-1016: 1.7.3.4 (GER-Space) for KSP 1.7.3
 	+ Bugfixes:
 		- Fix the compatibility between Kerbal Konstructs and the Stage Recovery mod
