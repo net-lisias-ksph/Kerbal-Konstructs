@@ -1,5 +1,13 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-1016: 1.7.3.4 (GER-Space) for KSP 1.7.3
+	+ Bugfixes:
+		- Fix the compatibility between Kerbal Konstructs and the Stage Recovery mod
+		- removed the exception when using the Making History Launch menu. (no more three clicks needed)
+		- tried to fix some issues with destroyed launchsites, so they are no longer useable for launching.
+	+ Features
+			- you can now close launchsites that cost 0 credits (for better filtering)
+			- you can open and close launchsites in non-career games (for better filtering)
 * 2019-0826: 1.7.3.2 (GER-Space) for KSP 1.7.3
 	+ Try to fix the out of order loading issues of CustomPrelaunchChecks and KK
 * 2019-0823: 1.7.3.1 (GER-Space) for KSP 1.7.3
