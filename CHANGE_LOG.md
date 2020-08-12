@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0826: 1.7.3.2 (GER-Space) for KSP 1.7.3
+	+ Try to fix the out of order loading issues of CustomPrelaunchChecks and KK
 * 2019-0823: 1.7.3.1 (GER-Space) for KSP 1.7.3
 	+ only a recompile and cleanup up of the CustomPrelaunchCheck Folder.
 * 2019-0822: 1.7.3.0 (GER-Space) for KSP 1.7.3
