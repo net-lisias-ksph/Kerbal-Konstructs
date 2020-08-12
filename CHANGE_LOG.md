@@ -1,5 +1,8 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0511: 1.7.0.2 (GER-Space) for KSP 1.7.0
+	+ Changes
+	+ should fix issue #138  (LaunchSites not working)
 * 2019-0428: 1.7.0.1 (GER-Space) for KSP 1.7.0
 	+ Changes
 		- rework the spawn and despawn logic once more: now all buildings are only spawned when they are within the visiblility range. they are despawned when going out of range and not only disabled. This should reduce the memory consumpion of setups with many statics.
