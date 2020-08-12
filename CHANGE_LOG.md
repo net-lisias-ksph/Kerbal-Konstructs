@@ -1,5 +1,7 @@
 # Kerbal Konstructs :: Change Log
 
+* 2019-0823: 1.7.3.1 (GER-Space) for KSP 1.7.3
+	+ only a recompile and cleanup up of the CustomPrelaunchCheck Folder.
 * 2019-0822: 1.7.3.0 (GER-Space) for KSP 1.7.3
 	+ to much to mention. Mostly internal changes
 * 2019-0531: 1.7.0.3 (GER-Space) for KSP 1.7.0
